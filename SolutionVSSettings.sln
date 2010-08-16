@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Droog.SolutionVSSettings", "Droog.SolutionVSSettings\Droog.SolutionVSSettings.csproj", "{8A3ED118-F917-4A06-8F79-080ED35EF563}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SolutionVSSettings", "SolutionVSSettings\SolutionVSSettings.vdproj", "{47EEF842-C08B-4A08-8449-465C2FD27303}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 		{8A3ED118-F917-4A06-8F79-080ED35EF563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A3ED118-F917-4A06-8F79-080ED35EF563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A3ED118-F917-4A06-8F79-080ED35EF563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EEF842-C08B-4A08-8449-465C2FD27303}.Debug|Any CPU.ActiveCfg = Debug
+		{47EEF842-C08B-4A08-8449-465C2FD27303}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
